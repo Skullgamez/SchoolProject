@@ -161,7 +161,26 @@
 	.omschrijving{
 		font-size: 14pt;
 	}
-
-
-
+	-------------------------------------------------------------------------------------
 	
+	.maps{
+	position: relative;
+	float: right;
+	right: 20;
+	background-size: auto;
+	height: 200;
+	width: 300;
+	}
+	.test{
+	float: left;
+	position: relative;
+	width:100;
+	left: 40;
+	}
+	.logo img{
+	float: left;
+	left: 30;
+	position: relative;
+	width: 120;
+	height: 120;
+}
