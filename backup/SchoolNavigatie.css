@@ -1,0 +1,317 @@
+	body {
+		background-image: url(Buttons/Bg2.jpg);
+		background-size: 100%;
+		background-color: #E6E6E6;
+		height: 100%;
+		margin-top: 30;
+		margin-bottom: 20;
+	}
+
+	#holder {
+		background-color: white;
+		opacity: 0.80;
+		width: 1024px;
+		margin-left: auto;
+		margin-right: auto;
+		height: calc(150% - 0px);
+	}
+
+	#menu ul {
+		list-style-type: none;
+		background-color: #A4A4A4;
+		margin-left: 220;
+		margin-right: 220;
+		margin-top: 40;
+		margin-bottom: 40;
+	}
+
+	#menu ul li {
+		top: 50%;
+		left: 50%;
+		display: inline-block;
+		margin: 0 auto;
+	}
+
+	#menu li a {
+		padding: 15px;
+		background-color: #A4A4A4;
+		font-family: Verdana;
+		color: white;
+	}
+
+	#menu li a:hover {
+		background-color: #5F94DC
+	}
+
+	#header {
+		text-align: center; 
+	}
+
+	#home ul{
+		list-style-type: none;
+		background-color: #A4A4A4;
+		background-color: #A4A4A4;
+		width: 910px;
+		border: 2px solid black;
+		float: left;
+		position: relative;
+		left: 35;
+		right: 0;
+		bottom: -15;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+	}
+
+	#home ul li {
+		top: 20%;
+		left: 20%;
+		display: inline-block;
+		margin: 0 auto;
+	}
+
+	#home li a {
+		padding: 0px;
+		background-color: #A4A4A4;
+		font-family: Verdana;
+		color: white;
+	}
+
+	#shortcut {
+		text-align: center;
+		font-family: Verdana;
+		font-size: 16px;
+	}
+
+	#language {
+		float: right;
+		position: relative;
+		top: 112;
+	}
+
+	.font18 {
+		font-size: 18px;
+	}
+
+	#bottom {
+		background-color: gray;
+		width: 1024px;
+		height: 130px;
+		opacity: 0.85;
+		margin-right: auto;
+		margin-left: auto;
+		margin-top: 25;
+		margin-bottom: 30;
+		height: calc(100% -50px);
+		color: white;
+	}
+
+	#copyright{
+		text-align: center;
+		color: black;
+		opacity: 0.85;
+		float: right;
+		position: relative;
+		top: 20;
+		right: 20;
+	}
+
+	#facebookicon {
+		float: left;
+		position: relative;
+		left: 20;
+		top: -54;
+	}
+
+	#facebook {
+		background-color: #585858;
+		color: white;
+		float: left;
+		position: relative;
+		left: 25;
+		top: -70;
+	}
+
+	.opmaak {
+		float: top;
+	}
+
+	.title {
+		background-color: #A4A4A4;
+		width: 950px;
+		border: 2px solid black;
+		float: left;
+		font-size: 18pt;
+		font-weight: bold;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	#Burgerking {
+		float: left;
+		position: relative;
+		left: 40;
+		border: 2px solid gray;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+		font-size: 18px;
+		top: 65;
+	}
+
+	#Burgerkingh1 {
+		background-color: #A4A4A4;
+		width: 950px;
+		border: 2px solid black;
+		float: left;
+		position: relative;
+		left: 35;
+		right: 0;
+		bottom: 140;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+	}
+
+	#Burgerkingp {
+		float: left;
+		position: relative;
+		left: 200;
+		right: 0;
+		bottom: 150;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+	}
+
+	#Macdonalds {
+		float: left;
+		position: relative;
+		left: -705;
+		border: 2px solid gray;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+		font-size: 18px;
+		top: 65;
+	}
+
+	#Macdonaldsh1 {
+		background-color: #A4A4A4;
+		width: 950px;
+		border: 2px solid black;
+		float: left;
+		position: relative;
+		left: 35;
+		right: 0;
+		bottom: 140;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+	}
+
+	#Macdonaldsp {
+		float: left;
+		position: relative;
+		left: 200;
+		right: 0;
+		bottom: 150;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+	}
+
+	#tempel{
+		float: left;
+		position: relative;
+		left: -725;
+		border: 2px solid gray;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+		font-size: 18px;
+		top: 65;
+	}
+
+	#tempelh1 {
+		background-color: #A4A4A4;
+		width: 950px;
+		border: 2px solid black;
+		float: left;
+		position: relative;
+		left: 35;
+		right: 0;
+		bottom: 140;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+	}
+
+	#tempelp {
+		float: left;
+		position: relative;
+		left: 200;
+		right: 0;
+		bottom: 150;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+	}
+
+	#chefs{
+		float: left;
+		position: relative;
+		left: -725;
+		border: 2px solid gray;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+		font-size: 18px;
+		top: 65;
+	}
+
+	#chefsh1 {
+		background-color: #A4A4A4;
+		width: 950px;
+		border: 2px solid black;
+		float: left;
+		position: relative;
+		left: 35;
+		right: 0;
+		bottom: 140;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+	}
+
+	#chefsp {
+		float: left;
+		position: relative;
+		left: 200;
+		right: 0;
+		bottom: 150;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+	}
+
+	#kfc{
+		float: left;
+		position: relative;
+		left: -725;
+		border: 2px solid gray;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+		font-size: 18px;
+		top: 65;
+	}
+
+	#kfch1 {
+		background-color: #A4A4A4;
+		width: 950px;
+		border: 2px solid black;
+		float: left;
+		position: relative;
+		left: 35;
+		right: 0;
+		bottom: 140;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+	}
+
+	#kfcp {
+		float: left;
+		position: relative;
+		left: 200;
+		right: 0;
+		bottom: 150;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+	}
